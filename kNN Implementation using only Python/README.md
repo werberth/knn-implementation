@@ -24,15 +24,21 @@ In this example we use the [**Euclidean Distance**](https://en.wikipedia.org/wik
 ## Additional Information
 
 ### Total
-- Number of samples: 306<br>
-- Number of Samples of Label 1: 225<br>
-- Number of Samples of Label 2: 81<br>
+- Number of samples: 306
+- Number of Samples of Label 1: 225
+- Number of Samples of Label 2: 81
 - Proportion of the dataset to include in the train split: *60%* (0.6)
 
 ### Train Samples
-- Number of samples: 183<br>
-- Number of Samples of Label 1: 132<br>
-- Number of Samples of Label 2: 51<br>
+- Number of samples: 183
+- Number of Samples of Label 1: 132
+- Number of Samples of Label 2: 51
 
 ### Test Samples
 - Number of samples: 123
+- Number of Samples of Label 1: 93
+- Number of Samples of Label 2: 30
+
+## Results
+- Total of hits: 93
+- Number of hits (Percentage): **75.61%**
