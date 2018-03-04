@@ -41,4 +41,4 @@ In this example we use the [**Euclidean Distance**](https://en.wikipedia.org/wik
 
 ## Results
 - Total of hits: 93
-- Number of hits (Percentage): **75.61%**
+- Success Rate (%): **75.61%**
